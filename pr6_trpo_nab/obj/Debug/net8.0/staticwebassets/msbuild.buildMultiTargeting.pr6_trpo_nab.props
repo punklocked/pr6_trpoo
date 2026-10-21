@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pr6_trpo_nab.props" />
+</Project>

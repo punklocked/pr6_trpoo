@@ -1,0 +1,6 @@
+@pr6_trpo_nab_HostAddress = http://localhost:5114
+
+GET {{pr6_trpo_nab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
